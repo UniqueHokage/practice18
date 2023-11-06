@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Practice18</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="cat11">Балинезийская кошка</string>
+    <string name="cat22">Эльф</string>
+    <string name="cat33">Саванна</string>
+
+    <string name="cat11info">"""Ближайшая родственница сиамов с полудлинной гладкой шерстью, голубыми глазами и пойнтовым окрасом тела. Коммуникабельна, игрива, обладает дружелюбным характером."""</string>
+    <string name="cat22info">"""
+        Порода лысых кошек, выведенная в 2006 году. Появилась в результате скрещивания американского керла и канадского сфинкса.
+        """</string>
+    <string name="cat33info">"""
+        Гибридная американская кошка экзотического гепардового окраса, возглавляющая список самых дорогих домашних питомцев.
+    """</string>
+</resources>
